@@ -12,6 +12,7 @@
     display: flex;
     align-items:right;
     margin-left: auto;
+    cursor: pointer;
 }
 
 .nav-items > li {
@@ -28,6 +29,7 @@ main {
   background-image: url(./images/react.png);
   background-repeat: no-repeat;
   background-position: 30% 75%;
+  size: 25cm;  
   
 }
 
